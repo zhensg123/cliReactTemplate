@@ -18,7 +18,7 @@ module.exports = {
       type: "string",
       required: false,
       message: "项目描述",
-      default: "vue项目"
+      default: "react项目"
     },
     author: {
       type: "string",
