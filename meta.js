@@ -30,10 +30,10 @@ module.exports = {
     //   type: "confirm",
     //   message: "是否安装vue-router？"
     // },
-    store: {
-      type: "confirm",
-      message: "是否安装vuex"
-    },
+    // store: {
+    //   type: "confirm",
+    //   message: "是否安装vuex"
+    // },
     // eslint: {
     //   type: "confirm",
     //   message: "是否使用 eslint？"
@@ -61,7 +61,7 @@ module.exports = {
     // "test/unit/**/*": "unit",
     // "test/e2e/**/*": "e2e",
     // "src/router/**/*": "router",
-    "src/store/**/*": "store"
+    // "src/store/**/*": "store"
   },
   completeMessage:
     "{{#inPlace}}To get started:\n\n  npm install\n  npm start{{else}}To get started:\n\n  cd {{destDirName}}\n  npm install\n  npm start{{/inPlace}}"
