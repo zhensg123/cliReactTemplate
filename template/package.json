@@ -1,7 +1,5 @@
 {
-  "name": "{{name}}",
-  "description": "{{description}}",
-  "author": "{{author}}",
+  "name": "react-engineer-template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^4.7.0"
   }
 }
