@@ -1,4 +1,4 @@
-## vue 项目模板
+## react 项目模板
 
 ## 使用
 
@@ -6,8 +6,8 @@ zhen-cli 的项目模板。
 
 ```
 $ npm install -g zhen-cli
-$ zhen vue my-project
+$ zhen react my-project
 $ cd my-project
 $ npm install
-$ npm start
+$ npm run start
 ```
