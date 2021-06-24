@@ -38,7 +38,6 @@ class App extends React.Component {
           </div>
           <Menu
             onClick={this.handleClick}
-            style={{ width: 256 }}
             defaultSelectedKeys={['1']}
             defaultOpenKeys={['sub1']}
             mode="inline"
